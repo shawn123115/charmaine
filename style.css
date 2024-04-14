@@ -236,7 +236,9 @@ body{
     border-radius: 20px;
     transition: background 0.5, transform 0.5s;
     box-shadow: 1px 1px 20px #012290f7,
-               1px 1px 40px #0053b8f7
+               1px 1px 40px #0053b8f7;
+               background: #000000;
+               
 }
 .services-list div i{
     font-size: 50px;
